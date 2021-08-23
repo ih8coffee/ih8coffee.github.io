@@ -1,0 +1,26 @@
+*{
+	font-family: Helvetica;
+}
+
+body, html, table{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+table{
+	margin: auto;
+	border-collapse: collapse;
+}
+
+td{
+    max-width:350px;
+    max-height:300px;
+    width:350px;
+    height:300px;
+	text-align: center;
+	font-size: 30px;
+	border-style : hidden!important;
+	color: #00000040;
+}
